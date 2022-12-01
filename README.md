@@ -1,4 +1,5 @@
 ![GitHub](https://img.shields.io/github/license/koelopog16/website?color=brightgreen&logo=github)
+![Matrix](https://img.shields.io/matrix/#koelo:vern.cc)
 ![GitHub Repo stars](https://img.shields.io/github/stars/koelopog16/website?style=social)
 
 # website
